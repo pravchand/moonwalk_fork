@@ -18,7 +18,7 @@ ul.horizontal-list {
 }
 
 .card {
-  padding: 1em;
+  padding: 2em;
   border: 1px var(--text) solid;
   width: 15em;
   height: auto;
@@ -26,6 +26,7 @@ ul.horizontal-list {
   font-size: 1em;
   align-items: center;
   background-color: var(--bg-secondary);
+  margin: 2em;
   margin-bottom: 0.8em;
   border-radius: 0.5em;
 
