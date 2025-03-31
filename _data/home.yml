@@ -9,13 +9,13 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Genomic Annotator Service
+    url: Available on request
+    desc: Distributed, scalable, cloud-based  Genomic Annotator service (SaaS), with option to use Stripe for payments, built using AWS services including Lambda, EC2, DynamoDB, RDS, S3, Glacier, SQS, SNS, and Step functions
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Web Scraping and Tokenizing Pipeline in Go
+    url: https://github.com/pravchand/web_scraping_Go
+    desc: This project implements an embarrassingly parallel web scraping and tokenizing system. The program is designed to fetch, parse, tokenize, and store transcripts of "The Seen and the Unseen" podcast by Amit Varma.
 
   - title: Project 3
     url: overview-post
