@@ -5,8 +5,8 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: next projects
+    url: "#next-projects"
 
 project_entries:
   - title: Genomic Annotator Service
@@ -17,23 +17,6 @@ project_entries:
     url: https://github.com/pravchand/web_scraping_Go
     desc: This project implements an embarrassingly parallel web scraping and tokenizing system. The program is designed to fetch, parse, tokenize, and store transcripts of "The Seen and the Unseen" podcast by Amit Varma.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -66,36 +49,15 @@ footer_entries:
   - title: feed
     url: feed.xml
 
-misc_entries:
-  - title: this is an example vertical list
+next_project_entries:
+  - title: What is in a story?
     url: false
+    desc: A curated collection of policy and relevant stories of people affected by them - exploring the human impact behind policy decisions
+    highlight: UPCOMING
 
-  - title: you can show or hide using a boolean flag in _config.yml
+  - title: Trying to understand TamilNadu in 10 charts
     url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+    desc: Data visualization project to understand Tamil Nadu through key metrics, demographics, and trends presented in compelling charts
+    highlight: IN PROGRESS
 
 
